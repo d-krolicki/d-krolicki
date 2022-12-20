@@ -11,7 +11,7 @@
 
 ---
 👨‍💻 About me: 
-- I am 2nd year undergraduate student at AGH, Faculty of Electrical Engineering, Automation, Computer Science and Biomedical Engineering, specialization Automation and Robotics 🤖
+- I am 3rd year undergraduate student at AGH, Faculty of Electrical Engineering, Automation, Computer Science and Biomedical Engineering, specialization Automation and Robotics 🤖
 - I am a member of AGH Solar Plane ✈️ Science Club, where I mainly work in AI section
 - I am looking for an internship and future job in IT industry 💻
 
