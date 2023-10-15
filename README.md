@@ -11,11 +11,11 @@
 
 ---
 👨‍💻 About me: 
-- I am 3rd year undergraduate student at AGH, Faculty of Electrical Engineering, Automation, Computer Science and Biomedical Engineering, specialization Automation and Robotics 🤖
-- I am a member of AGH Solar Plane ✈️ Science Club, where I mainly work in AI section
-- I am looking for an internship and future job in IT industry 💻
+- I am 4th year undergraduate student at AGH, Faculty of Electrical Engineering, Automation, Computer Science and Biomedical Engineering, specialization Automation and Robotics 🤖
+- I am a vice-president of AGH Solar Plane ✈️ Science Club 
+- I am looking for my first employment in ML field 💻
 
-My main interests are artificial neural networks and machine learning. <br>
+My main interests are artificial neural networks and general machine learning. <br>
 I also like strategical games, I am an active skier ⛷️ and book reader. 📚<br>
 
 - 📫 How to reach me: dariusz.krolicki.mail@gmail.com
