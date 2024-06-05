@@ -19,4 +19,4 @@
 My main interests are artificial neural networks and general machine learning. <br>
 I also like strategical games, I am an active skier ⛷️ and book reader. 📚<br>
 
-- 📫 How to reach me: dariusz.krolicki.mail@gmail.com
+- 📫 How to reach me: krolickidariusz7@gmail.com
